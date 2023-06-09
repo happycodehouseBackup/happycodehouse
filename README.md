@@ -1,6 +1,6 @@
 <h1>🏡 happy code house 🐶</h1>
 <p>
- Visit My Web Portfolio NOW ! ! !<br><br>
+ Visit My Web Portfolios NOW ! ! !<br><br>
 <a href="happycodehouse.kr">🕸️ happycodehouse.kr</a>
 </p>
 <a href="https://app.netlify.com/teams/happy-code-house/overview">
