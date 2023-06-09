@@ -8,7 +8,7 @@
 </a>
 
 <div align="right">
-  <h3>📊 Stats</h3>
+  <h3>Stats 📊</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=happycodehouse&theme=defalut&show_icons=true"/></a>
 </div>
 
