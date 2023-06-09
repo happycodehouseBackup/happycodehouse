@@ -7,6 +7,10 @@
  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
 </a>
 
+<p align="right"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=happycodehouse&theme=defalut&show_icons=true"/></a>
+</p>
+
 <h3>📋 Languages</h3>
 <div style="display: flex;">
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
