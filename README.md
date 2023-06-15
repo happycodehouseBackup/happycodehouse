@@ -40,13 +40,6 @@
  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 </div>
 
-<p text-align="left">
- And I love what I do.
-</p>
-
-
-
-
 <!--
 **happycodehouse/happycodehouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
