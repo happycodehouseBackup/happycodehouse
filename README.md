@@ -1,13 +1,13 @@
 <h1>🏡 happy code house 🐶</h1>
 <img src="https://github.com/happycodehouse/happycodehouse/assets/108500645/07ed5b84-04a8-4f3c-928c-48681508bf35">
 
-<p>
- Visit My Web Portfolios NOW ! ! !<br><br>
-<a href="happycodehouse.kr">🕸️ happycodehouse.kr</a>
-</p>
-<a href="https://app.netlify.com/teams/happy-code-house/overview">
+ #### Visit My Web Portfolios NOW ! ! !<br><br>
+<a href="happycodehouse.kr">🕸️ happycodehouse.kr</a> <br />
+<a href="https://app.netlify.com/teams/happy-code-house/overview"></br>
  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
 </a>
+
+<hr>
 
 <h3>📋 Languages</h3>
 <div style="display: flex;">
